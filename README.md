@@ -1,3 +1,5 @@
+<header>Hi, There!</header>
+
 <div style="display: flex" align="center">
   <a href="https://github.com/DuarteProg">
   <img height="167px" src="https://github-readme-stats.vercel.app/api?username=DuarteProg&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
