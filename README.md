@@ -2,12 +2,10 @@
 
 ##
 
-<div style="display: flex" align="center">
-  <a href="https://github.com/rafaballerini">
+<div align="center">
+  <a href="https://github.com/DuarteProg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DuarteProg&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="167px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuarteProg&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Duarte-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Duarte-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
