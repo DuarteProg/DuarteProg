@@ -1,5 +1,4 @@
 <header>Hi, There!</header>
-github_dark
 ##
 
 <div align="center">
